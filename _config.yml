@@ -3,3 +3,8 @@ markdown: kramdown
 include: 
   - index.md
   - 001.md
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true

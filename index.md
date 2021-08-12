@@ -1,45 +1,10 @@
-## 在这里记录生活
 
-[0622](_posts/2021-06-22-1.md)
 
-[0625](_posts/2021-06-25-1.md)
+<center>我们仍然同心同德……</center>
+<center>并将再度踏上孤独而忧伤的征途，</center>
+<center>不倦地呼号真理——</center>
+<center>哪怕希望扬长而去，人们好不眷顾！</center>
+<p align="right">——奥加辽夫</p>
 
-[0627](_posts/2021-06-27-1.md)
+[0812-物理杂谈(1)](2021-08-12-物理杂谈.md)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/I-m-Eden/Project-Eden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/I-m-Eden/Project-Eden/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
